@@ -24,7 +24,7 @@
     "clipboard-polyfill": "^2.8.6",
     "core-js": "^3.4.3",
     "countup.js": "^2.0.4",
-    "d3": "^5.15.1",
+    "d3": "^7.6.1",
     "d3-geo-projection": "^2.8.1",
     "dayjs": "^1.8.17",
     "echarts": "^4.5.0",
